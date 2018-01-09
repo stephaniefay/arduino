@@ -1,2 +1,2 @@
-# arduino
-Arduino training
+# Arduino Training
+Some training using arduino Genuino Uno.
